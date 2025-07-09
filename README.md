@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Saiprabha Mittal
 
-<!--
-**mittalsaiprabha/mittalsaiprabha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data-driven problem solver | 🚀 Product & Analytics Enthusiast | 🤖 AI Learner | 🧠 Curious Mind
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+I'm a tech-savvy professional with experience across **Sales Strategy**, **Business Analytics**, and **Consulting**. I thrive at the intersection of **business** and **data**, having worked on sourcing strategy, forecasting models, GTM planning, and BI dashboards. Passionate about building data-informed products and exploring how **AI and ML** can drive real-world impact.
+
+- 🧾 MBA from **IIM Trichy** (Analytics, Marketing, Operations)
+- 💼 Worked with **Godrej Agrovet**, **GEP Worldwide**, and other FMCG & consulting leaders
+- 🛠️ Built projects using **Power BI**, **SQL**, **Python**, **Looker Studio**, and **Bizom**
+- 🧠 Exploring LLMs, ML pipelines, and Generative AI to stay ahead in the AI-first world
+
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 Building my portfolio of **data science** and **product analytics** projects
+- 🌱 Upskilling in **Azure Databricks**, **Generative AI**, and **Power Platform**
+- 📊 Publishing dashboards and analytics case studies on FMCG, eCommerce, and growth
+- 🤝 Open to collaborating on data-centric projects or impactful AI use cases
+
+---
+
+### 🧰 Tools & Technologies
+
+```yaml
+Languages:       Python • SQL • R • DAX • JavaScript (basic)
+Data Analytics:  Power BI • Tableau • Excel • GA4 • Looker Studio
+ML/AI:           scikit-learn • TensorFlow • Pandas • NumPy • MLOps • Prompt Engineering
+Platforms:       Snowflake • Databricks • Azure • GCP • AWS • SAP Ariba • SMART by GEP
+Product Tools:   Figma • Balsamiq • JIRA • Aha! • Power Automate
