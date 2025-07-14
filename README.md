@@ -9,7 +9,7 @@
 I'm a tech-savvy professional with experience across **Sales Strategy**, **Business Analytics**, and **Consulting**. I thrive at the intersection of **business** and **data**, having worked on sourcing strategy, forecasting models, GTM planning, and BI dashboards. Passionate about building data-informed products and exploring how **AI and ML** can drive real-world impact.
 
 - 🧾 MBA from **IIM Trichy** (Analytics, Marketing, Operations)
-- 💼 Worked with **Godrej Agrovet**, **GEP Worldwide**, and other FMCG & consulting leaders
+- 💼 Worked with **Godrej Agrovet**, **GEP Worldwide**
 - 🛠️ Built projects using **Power BI**, **SQL**, **Python**, **Looker Studio**, and **Bizom**
 - 🧠 Exploring LLMs, ML pipelines, and Generative AI to stay ahead in the AI-first world
 
